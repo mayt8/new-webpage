@@ -1,0 +1,42 @@
+body {
+    background-color: 	#8000ff;
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 7px;
+}
+
+h1 {
+    color: 	#40ff00;
+    border: 10px dotted #40ff00;
+    text-align: center;
+    margin: 50px;
+}
+
+p { font-family: 'Permanent Marker', cursive;
+    font-size: 30px;
+}
+
+img { 
+      max-width: 100%;
+}
+
+/* unvisited link */
+a:link {
+    color: #4dff4d;
+}
+
+/* visited link */
+a:visited {
+    color: #ffff1a;
+}
+
+/* mouse over link */
+a:hover {
+    color: #a3a375;
+}
+
+/* selected link */
+a:active {
+    color: #26004d;
+}
